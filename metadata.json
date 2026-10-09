@@ -1,0 +1,10 @@
+{
+  "name": "AI Design Engine Pro",
+  "description": "An advanced AI-powered graphic design application for professional posters, logos, thumbnails, and more, providing multiple variations and download options.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
